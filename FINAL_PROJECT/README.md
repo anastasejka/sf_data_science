@@ -39,7 +39,7 @@
 
 ### 4. Этапы работы над проектом
 
-- создание датасета: [p1_dataset_compilation.ipynb](./dataset_creation.ipynb)
+- создание датасета: [dataset_creation.ipynb](./dataset_creation.ipynb)
 - построение ML-модели кластеризации: [clustering.ipynb](./clustering.ipynb)
 - описание кластеров, анализ зависимостей: [clustering.ipynb](./clustering.ipynb)
  
